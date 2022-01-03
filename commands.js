@@ -6,6 +6,7 @@ const clear   = require("./commands/clear");
 
 const PREFIX = '~';
 
+
 module.exports = function (msg) {
 
     if(msg.content.charAt(0)== PREFIX){
