@@ -61,8 +61,8 @@ module.exports = function (msg) {
 //         fetch("https://pnpninja-daily-comicstrips-v1.p.rapidapi.com/getComicLinks", {
 //             "method": "GET",
 //             "headers": {
-//                 "x-rapidapi-host": "pnpninja-daily-comicstrips-v1.p.rapidapi.com",
-//                 "x-rapidapi-key": "63176fff22msh058d77c80b610bcp1777b6jsnb09480b3b191"
+//                 "x-rapidapi-host": "",
+//                 "x-rapidapi-key": ""
 //             }
 //         })
 //         .then(response => {
